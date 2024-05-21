@@ -1,0 +1,612 @@
+[{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998a"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2022-09",
+  "date_to": "2024-01",
+  "company": "Suprema ingeniaria a.r.s",
+  "position": "Instal·lador de telecomunicacions",
+  "description": "Instal·lador d'equips i infraestructures de telecomunicacions especialitzat en ICT"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998b"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2022-05",
+  "date_to": "2022-09",
+  "company": "Vecttor s.l.",
+  "position": "Conductor Cabify",
+  "description": "Conductor de vehicles Cabify per transport de persones"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998c"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2010-07",
+  "date_to": "2018-11",
+  "company": "Gent Sobrerodes s.l.",
+  "position": "Responsable del servei tècnic",
+  "description": "Coordinar i realitzar el manteniment dels equips mòbils de l'empresa (segways i bicicletes elèctriques) | Manteniment de les instal·lacions i decoració dels espais de treball i tasques varies | Coordinador de campanyes; Coordinar diferents aspectes in situ, de campanyes publicitàries dutes a terme per l'empresa, Coordinació de promotors, gestió dels materials (indumentària, sampling), solució d'imprevistos"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998d"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2008-04",
+  "date_to": "2008-07",
+  "company": "Comfica",
+  "position": "Instal·lador d'equips telefònics",
+  "description": "Instal·lació en el domicili del client dels productes de Telefònica (RTB, RDSI, ADSL, IMAGENIO...)"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998e"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2005-11",
+  "date_to": "2008-03",
+  "company": "Insyte s.l.",
+  "position": "Instal·lador d'equips telefònics",
+  "description": "Instal·lació en el domicili del client dels productes de Telefònica (RTB, RDSI, ADSL, IMAGENIO...)"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd998f"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2004-02",
+  "date_to": "2005-02",
+  "company": "Pricoinsa",
+  "position": "Tècnic en reparació d'equips informàtics",
+  "description": "Reparació, recepció i entrega dels equips microinformàtics en el servei tècnic."
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9990"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2003-12",
+  "date_to": "2004-01",
+  "company": "Pricoinsa",
+  "position": "Aprenent en reparació d'equips informàtics",
+  "description": "Reparació, recepció i entrega dels equips microinformàtics en el servei tècnic"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9991"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2003-09",
+  "date_to": "2003-11",
+  "company": "Escola Lys",
+  "position": "Monitor infantil",
+  "description": "Monitor d'activitats d'infants i joves."
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9992"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2003-04",
+  "date_to": "2003-05",
+  "company": "UTE - Teletech",
+  "position": "Teleoperador",
+  "description": "Recepció de trucades del servei “cita prèvia” de la campanya de la RENDA 2002"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9993"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2002-09",
+  "date_to": "2003-01",
+  "company": "Top Datavox",
+  "position": "Instal·lador d'equips telefònics",
+  "description": "Instal·lació en el domicili del client dels productes de Telefònica"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9994"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2001-05",
+  "date_to": "2002-07",
+  "company": "Rosa dels vents",
+  "position": "Monitor de colonies",
+  "description": "Monitor d'activitats d'infants i joves."
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9995"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2000-10",
+  "date_to": "2001-04",
+  "company": "Speedy",
+  "position": "Mecànic de l'automòbil",
+  "description": "Manteniment (mecànica ràpida) de l'automòbil."
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9996"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "2000-08",
+  "date_to": "2000-09",
+  "company": "Delauto Prat",
+  "position": "Mecànic de l'automòbil",
+  "description": "Manteniment (mecànica ràpida) de l'automòbil"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9997"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "1999-10",
+  "date_to": "2000-06",
+  "company": "Gràfiques Aleu",
+  "position": "Manipulador de paper",
+  "description": "Manipulacions i tractament del paper, abans durant i després de processar-lo"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9998"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "1998-12",
+  "date_to": "1999-06",
+  "company": "Talleres J&G",
+  "position": "Aprenent en conveni escolar",
+  "description": "Realitzar les tasques de manteniment i reparació de l'automòbil"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd9999"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "1998-03",
+  "date_to": "1998-06",
+  "company": "Autolica",
+  "position": "Aprenent en conveni escolar",
+  "description": "Realitzar les tasques de manteniment i reparació de l'automòbil"
+},
+{
+  "_id": {
+    "$oid": "663bd31c4b55482155dd999a"
+  },
+  "featured": false,
+  "language": "ca",
+  "date_from": "1996-04",
+  "date_to": "1996-09",
+  "company": "Tallers J.Vila",
+  "position": "Aprenent en conveni escolar",
+  "description": "Realitzar les tasques de manteniment i reparació de l'automòbil"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99ae"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2022-09",
+  "date_to": "2024-01",
+  "company": "Suprema ingeniaria a.r.s",
+  "position": "Telecommunications installer",
+  "description": "Installer of telecommunications equipment and infrastructure specialized in ICT (Community Telecommunications Facilities)"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99af"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2022-05",
+  "date_to": "2022-09",
+  "company": "Vecttor s.l.",
+  "position": "Cabify driver",
+  "description": "Cabify vehicle driver for passenger transport"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b0"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2010-07",
+  "date_to": "2018-11",
+  "company": "Gent Sobrerodes s.l.",
+  "position": "Head of technical service",
+  "description": "Coordinate and perform maintenance of the company's mobile equipment (segways and electric bicycles) | Maintenance of facilities and decoration of workspaces and various tasks | Campaign coordinator; Coordinate different on-site aspects of advertising campaigns carried out by the company, Promoter coordination, management of materials (clothing, sampling), problem-solving"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b1"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2008-04",
+  "date_to": "2008-07",
+  "company": "Comfica",
+  "position": "Telephone equipment installer",
+  "description": "Installation at the customer's home of Telefónica products (basic line, ISDN, ADSL, IMAGENIO (TV over ADSL))"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b2"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2005-11",
+  "date_to": "2008-03",
+  "company": "Insyte s.l.",
+  "position": "Telephone equipment installer",
+  "description": "Installation at the customer's home of Telefónica products (basic line, ISDN, ADSL, IMAGENIO (TV over ADSL))"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b3"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2004-02",
+  "date_to": "2005-02",
+  "company": "Pricoinsa",
+  "position": "Computer equipment repair technician",
+  "description": "Repair, reception, and delivery of microcomputer equipment at the technical service."
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b4"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2003-12",
+  "date_to": "2004-01",
+  "company": "Pricoinsa",
+  "position": "Apprentice in computer equipment repair",
+  "description": "Repair, reception, and delivery of microcomputer equipment at the technical service"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b5"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2003-09",
+  "date_to": "2003-11",
+  "company": "Lys School",
+  "position": "Child monitor",
+  "description": "Monitor of children and youth activities."
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b6"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2003-04",
+  "date_to": "2003-05",
+  "company": "UTE - Teletech",
+  "position": "Teleoperator",
+  "description": "Reception of calls for the 'cita previa'(previous appointment) service of 'RENDA 2002' (INCOME campaign)"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b7"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2002-09",
+  "date_to": "2003-01",
+  "company": "Top Datavox",
+  "position": "Telephone equipment installer",
+  "description": "Installation at the customer's home of Telefónica products"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b8"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2001-05",
+  "date_to": "2002-07",
+  "company": "Rosa dels vents",
+  "position": "Colony monitor",
+  "description": "Monitor of children and youth activities."
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99b9"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2000-10",
+  "date_to": "2001-04",
+  "company": "Speedy",
+  "position": "Automobile mechanic",
+  "description": "Maintenance (quick mechanics) of the automobile."
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99ba"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "2000-08",
+  "date_to": "2000-09",
+  "company": "Delauto Prat",
+  "position": "Automobile mechanic",
+  "description": "Maintenance (quick mechanics) of the automobile"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99bb"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "1999-10",
+  "date_to": "2000-06",
+  "company": "Gràfiques Aleu",
+  "position": "Paper handler",
+  "description": "Paper handling and treatment, before, during, and after processing it"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99bc"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "1998-12",
+  "date_to": "1999-06",
+  "company": "Talleres J&G",
+  "position": "Apprentice under school agreement",
+  "description": "Performing maintenance and repair tasks for the automobile"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99bd"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "1998-03",
+  "date_to": "1998-06",
+  "company": "Autolica",
+  "position": "Apprentice under school agreement",
+  "description": "Performing maintenance and repair tasks for the automobile"
+},
+{
+  "_id": {
+    "$oid": "663bd3364b55482155dd99be"
+  },
+  "featured": false,
+  "language": "en",
+  "date_from": "1996-04",
+  "date_to": "1996-09",
+  "company": "Tallers J.Vila",
+  "position": "Apprentice under school agreement",
+  "description": "Performing maintenance and repair tasks for the automobile"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd999c"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2022-09",
+  "date_to": "2024-01",
+  "company": "Suprema ingeniería a.r.s",
+  "position": "Instalador de telecomunicaciones",
+  "description": "Instalador de equipos e infraestructuras de telecomunicaciones especializado en ICT"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd999d"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2022-05",
+  "date_to": "2022-09",
+  "company": "Vecttor s.l.",
+  "position": "Conductor Cabify",
+  "description": "Conductor de vehículos Cabify para transporte de personas"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd999e"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2010-07",
+  "date_to": "2018-11",
+  "company": "Gent Sobrerodes s.l.",
+  "position": "Responsable del servicio técnico",
+  "description": "Coordinar y realizar el mantenimiento de los equipos móviles de la empresa (segways y bicicletas eléctricas) | Mantenimiento de las instalaciones y decoración de los espacios de trabajo y tareas varias | Coordinador de campañas; Coordinar diferentes aspectos in situ, de campañas publicitarias llevadas a cabo por la empresa, Coordinación de promotores, gestión de los materiales (indumentaria, sampling), solución de imprevistos"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd999f"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2008-04",
+  "date_to": "2008-07",
+  "company": "Comfica",
+  "position": "Instalador de equipos telefónicos",
+  "description": "Instalación en el domicilio del cliente de los productos de Telefónica (RTB, RDSI, ADSL, IMAGENIO...)"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a0"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2005-11",
+  "date_to": "2008-03",
+  "company": "Insyte s.l.",
+  "position": "Instalador de equipos telefónicos",
+  "description": "Instalación en el domicilio del cliente de los productos de Telefónica (RTB, RDSI, ADSL, IMAGENIO...)"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a1"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2004-02",
+  "date_to": "2005-02",
+  "company": "Pricoinsa",
+  "position": "Técnico en reparación de equipos informáticos",
+  "description": "Reparación, recepción y entrega de los equipos microinformáticos en el servicio técnico."
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a2"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2003-12",
+  "date_to": "2004-01",
+  "company": "Pricoinsa",
+  "position": "Aprendiz en reparación de equipos informáticos",
+  "description": "Reparación, recepción y entrega de los equipos microinformáticos en el servicio técnico"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a3"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2003-09",
+  "date_to": "2003-11",
+  "company": "Escola Lys",
+  "position": "Monitor infantil",
+  "description": "Monitor de actividades de niños y jóvenes."
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a4"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2003-04",
+  "date_to": "2003-05",
+  "company": "UTE - Teletech",
+  "position": "Teleoperador",
+  "description": "Recepción de llamadas del servicio “cita previa” de la campaña de la RENTA 2002"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a5"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2002-09",
+  "date_to": "2003-01",
+  "company": "Top Datavox",
+  "position": "Instalador de equipos telefónicos",
+  "description": "Instalación en el domicilio del cliente de los productos de Telefónica"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a6"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2001-05",
+  "date_to": "2002-07",
+  "company": "Rosa dels vents",
+  "position": "Monitor de colonias",
+  "description": "Monitor de actividades de niños y jóvenes."
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a7"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2000-10",
+  "date_to": "2001-04",
+  "company": "Speedy",
+  "position": "Mecánico del automóvil",
+  "description": "Mantenimiento (mecánica rápida) del automóvil."
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a8"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "2000-08",
+  "date_to": "2000-09",
+  "company": "Delauto Prat",
+  "position": "Mecánico del automóvil",
+  "description": "Mantenimiento (mecánica rápida) del automóvil"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99a9"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "1999-10",
+  "date_to": "2000-06",
+  "company": "Gráfiques Aleu",
+  "position": "Manipulador de papel",
+  "description": "Manipulaciones y tratamiento del papel, antes, durante y después de procesarlo"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99aa"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "1998-12",
+  "date_to": "1999-06",
+  "company": "Talleres J&G",
+  "position": "Aprendiz en convenio escolar",
+  "description": "Realizar las tareas de mantenimiento y reparación del automóvil"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99ab"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "1998-03",
+  "date_to": "1998-06",
+  "company": "Autolica",
+  "position": "Aprendiz en convenio escolar",
+  "description": "Realizar las tareas de mantenimiento y reparación del automóvil"
+},
+{
+  "_id": {
+    "$oid": "663bd3284b55482155dd99ac"
+  },
+  "featured": false,
+  "language": "cas",
+  "date_from": "1996-04",
+  "date_to": "1996-09",
+  "company": "Tallers J.Vila",
+  "position": "Aprendiz en convenio escolar",
+  "description": "Realizar las tareas de mantenimiento y reparación del automóvil"
+}]

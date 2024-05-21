@@ -1,0 +1,22 @@
+@port = 3000
+@host = http://localhost:{{port}}/api
+
+GET {{host}}/fullName
+###
+GET {{host}}/personal
+
+###
+GET {{host}}/lastTraining/ca
+Content-Type: application/json
+
+###
+GET {{host}}/trainings/en
+
+###
+GET {{host}}/experiences/ca
+
+###
+GET {{host}}/competences/en
+
+###
+GET {{host}}/projects/cas

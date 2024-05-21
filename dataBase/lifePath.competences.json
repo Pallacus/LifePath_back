@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd991e"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Idioma",
+  "description": "Català. Nivell B"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd991f"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Idioma",
+  "description": "Castellà. Nivell alt"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9920"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Idioma",
+  "description": "Anglès. Mitjà."
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9921"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Informàtica",
+  "description": "Usuari de MacOS, coneixement de Windows i Linux"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9922"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Aficions",
+  "description": "Fotografia, senderisme, bricolatge, guitarra, manualitats, escoltisme"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9923"
+  },
+  "featured": true,
+  "language": "ca",
+  "title": "Carnet de conduïr",
+  "description": "B1 des de 1996"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992a"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "Language",
+  "description": "Catalan. Level B."
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992b"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "Language",
+  "description": "Castilian. High level."
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992c"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "Language",
+  "description": "English. Medium"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992d"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "PC user",
+  "description": "MacOS user, knowledge of Windows and Linux"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992e"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "Hobbies",
+  "description": "Photography, hiking, bricolage, guitar, handcrafts, scouting"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd992f"
+  },
+  "featured": true,
+  "language": "en",
+  "title": "Driver licence",
+  "description": "European driver licence B1 since 1996"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9924"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Idioma",
+  "description": "Català. Nivell B"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9925"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Idioma",
+  "description": "Castellano. Nivel alto"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9926"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Idioma",
+  "description": "Inglés. Medio."
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9927"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Informática",
+  "description": "Usuario de MacOS, conocimiento de Windows y Linux"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9928"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Aficiones",
+  "description": "Fotografía, senderismo, bricolaje, guitarra, manualidades, escultismo"
+},
+{
+  "_id": {
+    "$oid": "663b61ad4b55482155dd9929"
+  },
+  "featured": true,
+  "language": "cas",
+  "title": "Carnet de conducir",
+  "description": "B1 desde 1996"
+}]

@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "663bc6924b55482155dd995f"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2024",
+  "academy": "ID Bootcamps",
+  "title": "FullStack developer amb Angular17",
+  "description": "Programació fullStack: javaScript, angular(17), typeScript, nodeJs, mySQL, mongoDB, React"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9960"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2022",
+  "academy": "CIFO Santa Coloma",
+  "title": "ICT-3",
+  "description": "Muntatge i manteniment d’infraestructures de telecomunicacions en edificis"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9961"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2017",
+  "academy": "EMEB",
+  "title": "Mecànica de bicicleta clàsica i eléctrica",
+  "description": "Mecànica i reparació de bicicletes clàsiques i eléctriques"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9962"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2012",
+  "academy": "Foment del treball",
+  "title": "Google-Apps",
+  "description": "Aplicacions Google: Google Apps"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9963"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2005",
+  "academy": "CIFO Cobalt",
+  "title": "Editor-muntador d’imatge (efectes especials i autoria DVD)",
+  "description": "Editor-muntador d’imatge amb Final Cut i After Effects"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9964"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2003",
+  "academy": "Empleo y desarrollo",
+  "title": "Tècnic en reparació d’equips informàtics",
+  "description": "Muntatge, configuració i reparació d'equips microinformàtics"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9965"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2002",
+  "academy": "Utmar",
+  "title": "Tècnic instal·lador d’equips telefònics",
+  "description": "Instal·lació de línies de telefonia bàsica, RDS i ADSL, i detecció d'averies, instal·lació, configuració i detecció d'averies d'equips de telefonia."
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9966"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "2002",
+  "academy": "Bytesa",
+  "title": "Programació RPG IBM AS/400",
+  "description": "Programació RPG en entorn IBM AS/400"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9967"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "1998",
+  "academy": "Fundació Pere Tarrés",
+  "title": "Monitor d'educació en el lleure",
+  "description": "Monitor d'infants i joves, establiment d'objectius, desenvolupament d'ambientacións i evaluació dels resultats"
+},
+{
+  "_id": {
+    "$oid": "663bc6924b55482155dd9968"
+  },
+  "featured": true,
+  "language": "ca",
+  "date": "1995",
+  "academy": "Instsitut Politècnic de Formació Professional: Escola del Treball",
+  "title": "Tècnic auxiliar d'automoció (FP1)",
+  "description": "Formació teòrica i pràctica del funcionament dels motors de combustió interna i sistemes complementaris en automoció"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd9977"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2024",
+  "academy": "ID Bootcamps",
+  "title": "FullStack developer with Angular17",
+  "description": "FullStack programming: javaScript, angular(17), typeScript, nodeJs, mySQL, mongoDB, React"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd9978"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2022",
+  "academy": "CIFO Santa Coloma",
+  "title": "ICT-3",
+  "description": "Assembly and maintenance of telecommunications infrastructures in buildings"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd9979"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2017",
+  "academy": "EMEB",
+  "title": "Classic and electric bicycle mechanics",
+  "description": "Mechanics and repair of classic and electric bicycles"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997a"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2012",
+  "academy": "Foment del treball",
+  "title": "Google-Apps",
+  "description": "Google Applications: Google Apps"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997b"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2005",
+  "academy": "CIFO Cobalt",
+  "title": "Image editor and assembler (special effects and DVD authoring)",
+  "description": "Image editor and assembler with Final Cut and After Effects"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997c"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2003",
+  "academy": "Empleo y desarrollo",
+  "title": "Computer equipment repair technician",
+  "description": "Assembly, configuration, and repair of microcomputer equipment"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997d"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2002",
+  "academy": "Utmar",
+  "title": "Telephone equipment installer technician",
+  "description": "Installation of basic telephony lines, RDS and ADSL, and troubleshooting, installation, configuration, and troubleshooting of telephone equipment."
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997e"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "2002",
+  "academy": "Bytesa",
+  "title": "IBM AS/400 RPG programming",
+  "description": "RPG programming in IBM AS/400 environment"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd997f"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "1998",
+  "academy": "Fundació Pere Tarrés",
+  "title": "Leisure education monitor",
+  "description": "Children and youth monitor, goal setting, development of activities, and evaluation of results"
+},
+{
+  "_id": {
+    "$oid": "663bc6cd4b55482155dd9980"
+  },
+  "featured": true,
+  "language": "en",
+  "date": "1995",
+  "academy": "Instsitut Politècnic de Formació Professional: Escola del Treball",
+  "title": "Automotive assistant technician (FP1)",
+  "description": "Theoretical and practical training on the operation of internal combustion engines and complementary systems in automotive"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd996b"
+  },
+  "featured": true,
+  "language": "cas",
+  "date": "2024",
+  "academy": "ID Bootcamps",
+  "title": "FullStack developer con Angular17",
+  "description": "Programación fullStack: javaScript, angular(17), typeScript, nodeJs, mySQL, mongoDB, React"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd996c"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2022",
+  "academy": "CIFO Santa Coloma",
+  "title": "ICT-3",
+  "description": "Montaje y mantenimento de infraestructuras de telecomunicaciones en edificios"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd996d"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2017",
+  "academy": "EMEB",
+  "title": "Mecánica de bicicleta clásica y eléctrica",
+  "description": "Mecánica y reparación de bicicletas clásicas y eléctricas"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd996e"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2012",
+  "academy": "Foment del treball",
+  "title": "Google-Apps",
+  "description": "Aplicaciones Google: Google Apps"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd996f"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2005",
+  "academy": "CIFO Cobalt",
+  "title": "Editor-montador de imagen (efectos especiales y autoría DVD)",
+  "description": "Editor-montador de imagen con Final Cut y After Effects"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd9970"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2003",
+  "academy": "Empleo y desarrollo",
+  "title": "Técnico en reparación de equipos informáticos",
+  "description": "Montaje, configuración y reparación de equipos microinformáticos"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd9971"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2002",
+  "academy": "Utmar",
+  "title": "Técnico instal·lador de equipos telefónicos",
+  "description": "Instal·lación de líneas de telefonía básica, RDS y ADSL, y detección de averías, instal·lación, configuración y detección de averías de equipos de telefonía."
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd9972"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "2002",
+  "academy": "Bytesa",
+  "title": "Programación RPG IBM AS/400",
+  "description": "Programación RPG en entorno IBM AS/400"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd9973"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "1998",
+  "academy": "Fundació Pere Tarrés",
+  "title": "Monitor de educación en el tiempo libre",
+  "description": "Monitor de niños y jóvenes, establecimento de objetivos, desarrollo de ambientaciones y evaluación de los resultados"
+},
+{
+  "_id": {
+    "$oid": "663bc6b04b55482155dd9974"
+  },
+  "featured": false,
+  "language": "cas",
+  "date": "1995",
+  "academy": "Instsitut Politécnic de Formació Professional: Escola del Treball",
+  "title": "Técnico auxiliar de automoción (FP1)",
+  "description": "Formación teórica y práctica del funcionamento de los motores de combustión interna y sistemas complementarios en automoción"
+}]

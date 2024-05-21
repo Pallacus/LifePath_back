@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "663b574a4b55482155dd9919"
+  },
+  "featured": false,
+  "birthdate": "1977-09-03",
+  "nif": "46770245K",
+  "address": "Parcerisa, 9 , sobre-àtic, 2a, escala dreta",
+  "post_code": "08014"
+},
+{
+  "_id": {
+    "$oid": "663b57e54b55482155dd991b"
+  },
+  "featured": true,
+  "name": "Albert",
+  "last_name": "Pallach Font",
+  "email": "albertpf@gmail.com",
+  "phone_number": "655082566",
+  "city": "Barcelona",
+  "git": "https://github.com/Pallacus?tab=repositories"
+}]
