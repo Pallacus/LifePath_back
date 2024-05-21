@@ -1,22 +1,27 @@
 @port = 3000
-@host = http://localhost:{{port}}/api
 
-GET {{host}}/fullName
-###
-GET {{host}}/personal
+##@host = http://localhost:{{port}}
 
-###
-GET {{host}}/lastTraining/ca
-Content-Type: application/json
+@host = https://lifepath-back.onrender.com
 
-###
-GET {{host}}/trainings/en
+
+
+GET {{host}}/api/fullName
 
 ###
-GET {{host}}/experiences/ca
+GET {{host}}/api/personal
 
 ###
-GET {{host}}/competences/en
+GET {{host}}/api/lastTraining/ca
 
 ###
-GET {{host}}/projects/cas
+GET {{host}}/api/trainings/en
+
+###
+GET {{host}}/api/experiences/ca
+
+###
+GET {{host}}/api/competences/en
+
+###
+GET {{host}}/api/projects/cas
