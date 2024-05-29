@@ -56,7 +56,7 @@ router.get('/projects/:lang', async (req, res) => {
 
 router.get('/experiences/:lang', async (req, res) => {
     try {
-        const experiences = await Experience.find({ language: req.params.lang }).sort({ date: -1 });
+        const experiences = await Experience.find({ language: req.params.lang }).sort({ date_to: -1 });
         res.json(experiences);
     } catch (error) {
         res.json({ fatal: error.message });
