@@ -47,7 +47,7 @@ router.get('/trainings/:lang', async (req, res) => {
 
 router.get('/projects/:lang', async (req, res) => {
     try {
-        const projects = await Project.find({ language: req.params.lang });
+        const projects = await Project.find({ language: req.params.lang }).sort({ date: -1 });
         res.json(projects);
     } catch (error) {
         res.json({ fatal: error.message });

@@ -1,132 +1,91 @@
-[{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f427"
+[
+  {
+    "_id": {
+      "$oid": "664b489052d0f2329ec8f427"
+    },
+    "featured": true,
+    "language": "ca",
+    "date": "2024-04-25",
+    "name": "IDFashion",
+    "link": "",
+    "front_link": "https://github.com/Pallacus/IDFashion_front",
+    "back_link": "https://github.com/Pallacus/IDFashion_back",
+    "description": "Projecte final de bootcamp en grup: Utilitzant les tecnologies apresees durant el bootcamp crear un web de comerç en línia on , entre altres, els usuaris puguin consultar els productes, veure'ls per categories, sel·leccionar preferits, comentar-los, registrar-se i fer compres. L'administrador pot gestionar els productes, categories i comandes. "
   },
-  "featured": true,
-  "language": "ca",
-  "date": "2024",
-  "name": "IDFashion (front)",
-  "description": "Projecte final de bootcamp en grup: Utilitzant les tecnologies apresees durant el bootcamp crear un web de comerç en línia on , entre altres, els usuaris puguin consultar els productes, veure'ls per categories, sel·leccionar preferits, comentar-los, registrar-se i fer compres. L'administrador pot gestionar els productes, categories i comandes. ",
-  "link": "https://github.com/Pallacus/IDFashion_front"
-},
-{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f428"
+  {
+    "_id": {
+      "$oid": "664b489052d0f2329ec8f429"
+    },
+    "featured": true,
+    "language": "cas",
+    "date": "2024-04-25",
+    "name": "IDFashion",
+    "link": "",
+    "front_link": "https://github.com/Pallacus/IDFashion_front",
+    "back_link": "https://github.com/Pallacus/IDFashion_back",
+    "description": "Proyecto final de bootcamp en grupo: Utilizando las tecnologías aprendidas durante el bootcamp crear una web de comercio online donde, entre otros, los usuarios puedan consultar los productos, verlos por categorías, seleccionar favoritos, comentarlos, registrarlos hacer compras. El administrador puede manejar los productos, categorías y pedidos. "
   },
-  "featured": true,
-  "language": "ca",
-  "date": "2024",
-  "name": "IDFashion (back)",
-  "description": "Projecte final de bootcamp en grup: Utilitzant les tecnologies apresees durant el bootcamp crear un web de comerç en línia on , entre altres, els usuaris puguin consultar els productes, veure'ls per categories, sel·leccionar preferits, comentar-los, registrar-se i fer compres. L'administrador pot gestionar els productes, categories i comandes. ",
-  "link": "https://github.com/Pallacus/IDFashion_back"
-},
-{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f429"
+  {
+    "_id": {
+      "$oid": "664b489052d0f2329ec8f42b"
+    },
+    "featured": true,
+    "language": "en",
+    "date": "2024-04-25",
+    "name": "IDFashion",
+    "link": "",
+    "front_link": "https://github.com/Pallacus/IDFashion_front",
+    "back_link": "https://github.com/Pallacus/IDFashion_back",
+    "description": "Final group bootcamp project: Using the technologies learned during the bootcamp to create an online commerce website where, among other things, users can consult the products, see them by category, select favorites, comment on them, register and do shopping. Admin can manage products, categories and orders. "
   },
-  "featured": true,
-  "language": "cas",
-  "date": "2024",
-  "name": "IDFashion (front)",
-  "description": "Proyecto final de bootcamp en grupo: Utilizando las tecnologías aprendidas durante el bootcamp crear una web de comercio online donde, entre otros, los usuarios puedan consultar los productos, verlos por categorías, seleccionar favoritos, comentarlos, registrarlos hacer compras. El administrador puede manejar los productos, categorías y pedidos. ",
-  "link": "https://github.com/Pallacus/IDFashion_front"
-},
-{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f42a"
+  {
+    "_id": {
+      "$oid": "664b489052d0f2329ec8f42c"
+    },
+    "featured": true,
+    "language": "en",
+    "date": "2024-04-25",
+    "name": "IDFashion (back)",
+    "description": "Final group bootcamp project: Using the technologies learned during the bootcamp to create an online commerce website where, among other things, users can consult the products, see them by category, select favorites, comment on them, register and do shopping. Admin can manage products, categories and orders. ",
+    "link": "https://github.com/Pallacus/IDFashion_back"
   },
-  "featured": true,
-  "language": "cas",
-  "date": "2024",
-  "name": "IDFashion (back)",
-  "description": "Proyecto final de bootcamp en grupo: Utilizando las tecnologías aprendidas durante el bootcamp crear una web de comercio online donde, entre otros, los usuarios puedan consultar los productos, verlos por categorías, seleccionar favoritos, comentarlos, registrarlos hacer compras. El administrador puede manejar los productos, categorías y pedidos. ",
-  "link": "https://github.com/Pallacus/IDFashion_back"
-},
-{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f42b"
+  {
+    "_id": {
+      "$oid": "664c94f33d941353fa8d89d2"
+    },
+    "featured": true,
+    "language": "ca",
+    "date": "2024-05-21",
+    "name": "LifePath",
+    "link": "https://lifepath-pf.web.app/",
+    "front_link": "https://github.com/Pallacus/LifePath_front",
+    "back_link": "https://github.com/Pallacus/LifePath_back",
+    "description": "Projecte final de bootcamp personal. Calia desenvolupar una aplicació amb Angular i NodeJS que mostrés les dades personals, formació i experiencies laborals, així com també projectes destacables."
   },
-  "featured": true,
-  "language": "en",
-  "date": "2024",
-  "name": "IDFashion (front)",
-  "description": "Final group bootcamp project: Using the technologies learned during the bootcamp to create an online commerce website where, among other things, users can consult the products, see them by category, select favorites, comment on them, register and do shopping. Admin can manage products, categories and orders. ",
-  "link": "https://github.com/Pallacus/IDFashion_front"
-},
-{
-  "_id": {
-    "$oid": "664b489052d0f2329ec8f42c"
+  {
+    "_id": {
+      "$oid": "664c94f33d941353fa8d89d4"
+    },
+    "featured": true,
+    "language": "cas",
+    "date": "2024-05-21",
+    "name": "LifePath",
+    "link": "https://lifepath-pf.web.app/",
+    "front_link": "https://github.com/Pallacus/LifePath_front",
+    "back_link": "https://github.com/Pallacus/LifePath_back",
+    "description": "Proyecto final de bootcamp personal. Había que desarrollar una aplicación con Angular en NodeJS que muestre los datos personales, formación y experiencias laborales, además de proyectos destacables."
   },
-  "featured": true,
-  "language": "en",
-  "date": "2024",
-  "name": "IDFashion (back)",
-  "description": "Final group bootcamp project: Using the technologies learned during the bootcamp to create an online commerce website where, among other things, users can consult the products, see them by category, select favorites, comment on them, register and do shopping. Admin can manage products, categories and orders. ",
-  "link": "https://github.com/Pallacus/IDFashion_back"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d2"
-  },
-  "featured": true,
-  "language": "ca",
-  "date": "2024",
-  "name": "LifePath (front)",
-  "description": "Projecte final de bootcamp personal. Calia desenvolupar una aplicació amb Angular i NodeJS que mostrés les dades personals, formació i experiencies laborals, així com també projectes destacables.",
-  "link": "https://github.com/Pallacus/LifePath_front"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d3"
-  },
-  "featured": true,
-  "language": "ca",
-  "date": "2024",
-  "name": "LifePath (back)",
-  "description": "Projecte final de bootcamp personal. Calia desenvolupar una aplicació amb Angular i NodeJS que mostrés les dades personals, formació i experiencies laborals, així com també projectes destacables.",
-  "link": "https://github.com/Pallacus/LifePath_back"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d4"
-  },
-  "featured": true,
-  "language": "cas",
-  "date": "2024",
-  "name": "LifePath (front)",
-  "description": "Proyecto final de bootcamp personal. Había que desarrollar una aplicación con Angular en NodeJS que muestre los datos personales, formación y experiencias laborales, además de proyectos destacables.",
-  "link": "https://github.com/Pallacus/LifePath_front"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d5"
-  },
-  "featured": true,
-  "language": "cas",
-  "date": "2024",
-  "name": "LifePath (back)",
-  "description": "Proyecto final de bootcamp personal. Había que desarrollar una aplicación con Angular en NodeJS que muestre los datos personales, formación y experiencias laborales, además de proyectos destacables.",
-  "link": "https://github.com/Pallacus/LifePath_back"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d6"
-  },
-  "featured": true,
-  "language": "en",
-  "date": "2024",
-  "name": "LifePath (front)",
-  "description": "Final personal bootcamp project. We had to develop an Angular and NodeJS application that shows personal details, training and work experiences, as well as notable projects.",
-  "link": "https://github.com/Pallacus/LifePath_front"
-},
-{
-  "_id": {
-    "$oid": "664c94f33d941353fa8d89d7"
-  },
-  "featured": true,
-  "language": "en",
-  "date": "2024",
-  "name": "LifePath (back)",
-  "description": "Final personal bootcamp project. We had to develop an Angular and NodeJS application that shows personal details, training and work experiences, as well as notable projects.",
-  "link": "https://github.com/Pallacus/LifePath_back"
-}]
+  {
+    "_id": {
+      "$oid": "664c94f33d941353fa8d89d6"
+    },
+    "featured": true,
+    "language": "en",
+    "date": "2024-05-21",
+    "name": "LifePath",
+    "link": "https://lifepath-pf.web.app/",
+    "front_link": "https://github.com/Pallacus/LifePath_front",
+    "back_link": "https://github.com/Pallacus/LifePath_back",
+    "description": "Final personal bootcamp project. We had to develop an Angular and NodeJS application that shows personal details, training and work experiences, as well as notable projects."
+  }
+]

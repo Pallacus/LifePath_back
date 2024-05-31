@@ -24,4 +24,4 @@ GET {{host}}/api/experiences/ca
 GET {{host}}/api/competences/en
 
 ###
-GET {{host}}/api/projects/cas
+GET {{host}}/api/projects/en
